@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Jupyter and Python caches
+.ipynb_checkpoints/
+__pycache__/
+
+# macOS
+.DS_Sto
